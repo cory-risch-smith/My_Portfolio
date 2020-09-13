@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name": "Cory Risch-Smith",
+    "occupation": "FullStack Developer & Designer",
+    "description": "Creativity fuels passion for me in web development and UX Design and I enjoy projects that keep me outside my comfort zone",
+    "image": "/profile_pic.png",
+    "bio": "Hello! I am currently in pursuit of my BA in Design at the University of California, Davis with an Emphasis in Front-End Web Development and UX Design, however, I love the full-stack. I enjoy creating applications that solve real problems and being able to give back what has been given to me. I am an Innovative and passionate learner in web development. I look forward to continuous learning and extending my knowledge base in Full Stack development.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "cory120112@gmail.com",
+    "phone": "707-477-3304",
+    "address": {
+      "street": "12 BuckleMyShoe Avenue",
+      "city": "Berkeley",
+      "state": "CA",
+      "zip": "94931"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1nyjAbkRAkFRlkEIsiXqOAxLw9-gU7MGa/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/cory.rs.7",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/cory-risch-smith",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/cory120112/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/cory-risch-smith",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I love working with JavaScript and React and look forward to contributing to the innovation necessary to change the world.",
+    "education": [
+      {
+        "school": "University of California, Davis",
+        "degree": "Bachelor of Arts in Design",
+        "graduated": "June 2021",
+        "description": "Empahisis in Technology, (FrontEnd Development & UX Design)"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance Developer",
+        "title": "Senior Consultant & Lead Developer",
+        "years": "April 2020 - Present",
+        "description": "Bringing innovation and increased value to clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "30%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "55%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "65%"
+      },
+      {
+        "name": "JQuery",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "40%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Adobe Photoshop & Illustrator ",
+        "level": "65%"
+      },
+      {
+        "name": "Firebase/Netlify",
+        "level": "25%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Full-Stack Amazon Rebuild",
+        "category": "Full-Stack Amazon Clone built with MERN(FireBase, ExpressJS, ReactJS, NodeJS)",
+        "image": "amazon.jpeg",
+        "url": "https://rebuild-f71a0.web.app/"
+      },
+      {
+        "title": "Full-Stack Google Clone",
+        "category": "Google Clone built with (FireBase, ExpressJS, ReactJS, NodeJS)",
+        "image": "GC_1.jpeg",
+        "url": "https://clone-64314.firebaseapp.com/"
+      },
+      {
+        "title": "Full-Stack Google Clone Search Page",
+        "category": "Google Clone built with (FireBase, ExpressJS, ReactJS, NodeJS)",
+        "image": "GC_search.jpeg",
+        "url": "https://clone-64314.firebaseapp.com/search"
+      },
+      {
+        "title": "Tindog Mockup",
+        "category": "TinDog (ExpressJS, NodeJS)",
+        "image": "TinDog.jpeg",
+        "url": "https://cory-risch-smith.github.io/TinDog_mockup/"
+      },
+      {
+        "title": "Simon with JS",
+        "category": "Simon Says Game built using JQuery",
+        "image": "simon.jpeg",
+        "url": "https://cory-risch-smith.github.io/Simon_Says/"
+      },
+      {
+        "title": "Drum Kit with JS",
+        "category": "Drum Kit using JS, HTML, and CSS ",
+        "image": "drum_kit.jpeg",
+        "url": "https://cory-risch-smith.github.io/Drum_Kit/"
+      },
+      {
+        "title": "Dice Game",
+        "category": "Dice Game using JS",
+        "image": "dice.jpeg",
+        "url": "https://cory-risch-smith.github.io/Dice_Game/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Cory did a wonderful job as the web developer for our fitness company website. He was engaging, open minded, very detail oriented, and quick to respond.  He clearly has vast experience with his agenda and was able to answer all of our questions. Not only is Cory a passionate Web Developer, but rather the perfect example of a UX designer. His work is beautiful, clean and easy to navigate. My partners and I would recommend Cory to anyone.",
+        "user": "Mai Nguyen - Co-Owner Fit4Mom 510"
+      },
+      {
+        "text": "As one of Cory’s classmates I have had the privilege of working directly with him for six weeks through one of the most academically rigorous courses at UC Davis. From experience I can attest that Cory’s leadership and strong work ethic are invaluable assets to any group setting he serves in, and his well-timed humor will never fail to make you laugh when you need it most. Cory will always put the needs of his team before his own and will remain committed to working tirelessly until the job is done.",
+        "user": "Devlin Vaughan"
+      }
+    ]
+  }
+}
