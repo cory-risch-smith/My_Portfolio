@@ -97,11 +97,21 @@
       {
         "name": "Firebase/Netlify",
         "level": "25%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "10%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "React Spotify Rebuild",
+        "category": "Spotify-Clone built using (FireBase, ExpressJS, ReactJS, NodeJS, React Context API)",
+        "image": "spotify.jpeg",
+        "url": "https://spotify-rebuild.web.app/"
+      },
       {
         "title": "Full-Stack Amazon Rebuild",
         "category": "Full-Stack Amazon Clone built with MERN(FireBase, ExpressJS, ReactJS, NodeJS)",
