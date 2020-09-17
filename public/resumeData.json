@@ -107,6 +107,18 @@
   "portfolio": {
     "projects": [
       {
+        "title": "COVID-19 Tracker App",
+        "category": "COVID-19 Tracker built using (ReactJS, NodeJS, FireBase)",
+        "image": "covid_tracker.jpeg",
+        "url": "https://covid-19-tracker-f9ba8.web.app/"
+      },
+      {
+        "title": "Tinder React Rebuild",
+        "category": "Tinder Clone built using (FireBase, ExpressJS, ReactJS, NodeJS)",
+        "image": "Tinder.jpeg",
+        "url": "https://tinder-react-rebuild.web.app/"
+      },
+      {
         "title": "React Spotify Rebuild",
         "category": "Spotify-Clone built using (FireBase, ExpressJS, ReactJS, NodeJS, React Context API)",
         "image": "spotify.jpeg",
