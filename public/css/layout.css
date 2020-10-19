@@ -475,8 +475,8 @@ ul#nav li.current a {
 
 /* Portfolio Content */
 #portfolio-wrapper .columns {
-  margin-bottom: 36px;
-  width: 330px;
+  margin-bottom: 40px;
+  width: 5000px;
 }
 .portfolio-item .item-wrap {
   background: #fff;
@@ -517,8 +517,8 @@ ul#nav li.current a {
 .portfolio-item .item-wrap .link-icon {
   display: block;
   color: #fff;
-  height: 30px;
-  width: 30px;
+  height: 10px;
+  width: 10px;
   font-size: 18px;
   line-height: 30px;
   text-align: center;
@@ -542,7 +542,7 @@ ul#nav li.current a {
   vertical-align: bottom;
 }
 .portfolio-item .portfolio-item-meta {
-  padding: 18px;
+  padding: 40px;
 }
 .portfolio-item .portfolio-item-meta h5 {
   font: 14px/21px "opensans-bold", sans-serif;

@@ -51,6 +51,18 @@
     ],
     "work": [
       {
+        "company": "NewGen Development",
+        "title": "Co-Founder | CEO",
+        "years": "October 2020 - Present",
+        "description": "Taking Development to the Next Level. Offering an array of web development services based on clients needs and wants."
+      },
+      {
+        "company": "UC Berkeley | Incarceration to College",
+        "title": "Project Manager | UX Engineer (Intern)",
+        "years": "September 2020 - Present",
+        "description": "Mapping out entire web presence for new program under the umbrella of Underground Scholars."
+      },
+      {
         "company": "Freelance Developer",
         "title": "Senior Consultant & Lead Developer",
         "years": "April 2020 - Present",
