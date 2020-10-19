@@ -1,6 +1,6 @@
 This Portfolio was redesigned and deployed using Netlify. You can check out a live demo here:
 
-cory-rs-portfolio-a6bd02.netlify.app
+https://coryrs-portfolio.netlify.app
 
 # Clever Programmer ReactJS Portfolio Template      
 

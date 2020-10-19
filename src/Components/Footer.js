@@ -21,15 +21,13 @@ class Footer extends Component {
             <ul className="social-links">{networks}</ul>
 
             <ul>
-              <li>Modified with love by Cory Risch-Smith ♥️</li>
+              <li>Modified and Redesigned by Cory Risch-Smith</li>
             </ul>
 
             <ul className="copyright">
+              <li>&copy; Copyright 2017 Tim Baker</li>
               <li>
-                &copy; All credit goes to Tim Baker - Copyright 2017 Tim Baker
-              </li>
-              <li>
-                Design by{" "}
+                Original design by{" "}
                 <a title="Styleshout" href="http://www.styleshout.com/">
                   Styleshout
                 </a>

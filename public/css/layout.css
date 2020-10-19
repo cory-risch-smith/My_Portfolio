@@ -471,12 +471,14 @@ ul#nav li.current a {
 #portfolio-wrapper {
   display: flex;
   flex-wrap: wrap;
+  border-radius: 20px;
 }
 
 /* Portfolio Content */
 #portfolio-wrapper .columns {
   margin-bottom: 40px;
-  width: 5000px;
+  width: 1000px;
+
 }
 .portfolio-item .item-wrap {
   background: #fff;
@@ -540,6 +542,7 @@ ul#nav li.current a {
 }
 .portfolio-item .item-wrap img {
   vertical-align: bottom;
+  border-radius: 5px;
 }
 .portfolio-item .portfolio-item-meta {
   padding: 40px;
